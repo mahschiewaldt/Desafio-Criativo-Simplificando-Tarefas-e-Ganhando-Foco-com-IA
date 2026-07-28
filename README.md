@@ -1,7 +1,7 @@
 # Desafio-Criativo-Simplificando-Tarefas-e-Ganhando-Foco-com-IA
 Durante o desafio, eu organizo minhas ideias e as transformo em comandos claros. Cada etapa adiciona uma peça ao meu prompt final. Ao seguir o processo criativo com atenção, termino com um prompt estruturado que orienta a IA a gerar exatamente o que imaginei.
 
-#Respostas de Projeto
+# Respostas de Projeto
 Intenção  
 Quero que a IA gere um prompt para uma landing page da cafeteria Doce Aroma, localizada na Rua XV de Novembro, nº 150 – Centro – Taubaté/SP, com WhatsApp (12) 99883-6210. O objetivo é criar um site moderno, elegante, responsivo e atrativo para os clientes.
 
