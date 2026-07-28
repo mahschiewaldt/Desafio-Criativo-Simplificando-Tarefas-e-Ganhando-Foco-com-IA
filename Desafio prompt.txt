@@ -1,0 +1,14 @@
+﻿Crie o prompt para uma landing page que seja legivel para lovable apenas para copiar e colar e que seja moderna, elegante, responsiva e visualmente atrativa para uma cafeteria chamada Doce Aroma localizada na Rua xv de novembro numero 150 - centro - taubaté/sp e o whatsapp 12 998836210 com logo de uma xícara de café e a fumaça se tornando um coração, sendo o fundo vermelho e a xícara e fumaça sendo brancas com contorno preto.O site precisa ser de cores vermelho, branco e detalhes em preto, mas em tons suaves que tragam leveza ao design do site e atraente aos clientes que visitarem a pagina. Precisa ser um site completo e prático de facil acesso e organizado. Preciso que tenha a área onde se encontra o cardápio com opções que quero que monte para mim com opções de café da manhã, almoço e café da tarde com diversas opções de bebidas como café, chás, bebidas geladas, variedade de pães, bolos e tortas c preços sempre na faixa de R$20,00. Coloque também imagens das comidas típicas brasileira para que o cliente tenha uma ideia do que o estabelecimento oferece. Coloque imagens de um ambiente rústico, com bastante claridade, área para trabalho home office, área kids e mesas aconchegantes e acolhedoras que transmita sensação de acolhimento. O cardápio precisa conter o endereço que fica na Rua xv de novembro numero 150 - centro - taubaté/sp e o whatsapp 12 998836210. 
+Crie um assistente virtual chamado KOVU que devera fazer um atendimento chegando mais perto possivel da interação humana. Ele deverá: 
+Ser cordial e cumprimentar o cliente de acordo com o horário
+Deverá perguntar o que ele deseja
+As opções serão, pedidos e encomendas 
+No caso de pedidos mostre o cardápio e a medida que o cliente escolher as opçoes adicione ao carrinho, faça a soma e pergunte se será entrega ou retirada.
+Se for entrega coloque a taxa de entrega de acordo com a distância e some ao pedido e se for retirada apenas confirme o pedido e em quanto tempo fica pronto e em seguida solicite o pagamento
+Se for dinheiro pergunte se precisara de troco. Se sim, passe o valor do pedido e o valor do troco solicitado, lembrando que o valor do troco não pode ser menor que o valor da compra. 
+Se for cartão pergunte se é crédito ou débito e gere o link de pagamento
+Se for pix gere o código pix. Após confirmação de ambos os pagamentos, peça o celular do cliente e envie a mensagem de confirmação.
+Se for encomenda peça para ele escolher o pedido (torta, bolo, salgados (cento) passe os tamanhos e quantidade com os valores para ele escolher, após a escolha solicite o pagamento
+Se for dinheiro pergunte se precisara de troco. Se sim, passe o valor do pedido e o valor do troco solicitado, lembrando que o valor do troco não pode ser menor que o valor da compra. 
+Se for cartão pergunte se é crédito ou débito e gere o link de pagamento
+Se for pix gere o código pix. Após confirmação de ambos os pagamentos, peça o celular do cliente e envie a mensagem de confirmação.
